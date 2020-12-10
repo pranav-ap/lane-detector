@@ -20,12 +20,17 @@ Lane lines are a constant reference for where to steer the vehicle. One of the f
 
 <div align="center">
   <br>
-  <img style="width: 48%; display:inline" src="test_images\solidWhiteCurve.jpg">
-  <img style="width: 48%; display:inline" src="test_images_output\Processed_solidWhiteCurve.jpg">
+   <figure>
+      <img style="width: 48%; display:inline" src="test_images\solidWhiteCurve.jpg">
+      <figcaption>Original Image</figcaption>
+    </figure>
+   <figure>
+      <img style="width: 48%; display:inline" src="test_images_output\Processed_solidWhiteCurve.jpg">
+      <figcaption>Marked Image</figcaption>
+    </figure>
   <br>
   <br>
 </div>
-
 
 ## Future work
 
