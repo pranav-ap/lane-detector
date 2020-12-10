@@ -18,10 +18,20 @@ Lane lines are a constant reference for where to steer the vehicle. One of the f
 - Use Hough transform to detect lines in the edge-world image
 - Draw the detected lines in the original image
 
+<div align="center">
+  <br>
+  <img style="width: 48%; display:inline" src="test_images\solidWhiteCurve.jpg">
+  <img style="width: 48%; display:inline" src="test_images_output\Processed_solidWhiteCurve.jpg">
+  <br>
+  <br>
+</div>
+
+
 ## Future work
 
 - I have not supported different lighting conditions. Any dark images would probably screw up the lane predictions.
 - The Hough transform is currently only looking for straight lines. Unless you live on a chess board, this is not good enough.
+- Some roads may not have lane lines at regualr intervals. I need to sort this out.
 
 ## References
 
