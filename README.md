@@ -20,7 +20,7 @@ Lane lines are a constant reference for where to steer the vehicle. One of the f
 
 Original Image             |  Marked Image
 :-------------------------:|:-------------------------:
-![](test_images\solidWhiteCurve.jpg)  |  ![](test_images_output\Processed_solidWhiteCurve.jpg)
+![](\test_images\solidWhiteCurve.jpg)  |  ![](\test_images_output\Processed_solidWhiteCurve.jpg)
 
 ## Future work
 
