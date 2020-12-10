@@ -18,9 +18,10 @@ Lane lines are a constant reference for where to steer the vehicle. One of the f
 - Use Hough transform to detect lines in the edge-world image
 - Draw the detected lines in the original image
 
-Original Image             |  Marked Image
-:-------------------------:|:-------------------------:
-![](\test_images\solidWhiteCurve.jpg)  |  ![](\test_images_output\Processed_solidWhiteCurve.jpg)
+<p float="left">
+  <img src="test_images\solidWhiteCurve.jpg" width="48%" />
+  <img src="test_images_output\Processed_solidWhiteCurve.jpg" width="48%" />
+</p>
 
 ## Future work
 
